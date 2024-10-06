@@ -1,7 +1,7 @@
 # Dynamic Array in C
 
 ## Overview
-This project provides a simple implementation of a dynamic array in C that can be used for any type of object. It uses macros and `void*` pointers to achieve genericity.
+This project provides a simple implementation of a C++ STL Vector in C that can be used for any type of object. It uses macros and `void*` pointers to achieve genericity.
 
 ## Features
 - Dynamic resizing: Array automatically resizes itself when capacity is reached.
